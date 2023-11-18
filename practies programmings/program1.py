@@ -52,3 +52,15 @@ print (a)
 # python code to print number
 a = int(input("enter your favorite number = "))
 print("my favourite number is = {0} " .format(a))
+
+response_code = 201
+match response_code:
+    case 200:
+        print("ok")
+    case 201:
+     print("created")
+    case 300:
+     print("multiple choices")
+
+
+

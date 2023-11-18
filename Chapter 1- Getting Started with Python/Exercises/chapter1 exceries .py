@@ -41,7 +41,7 @@ print(A," "+ B," "+ C)
 PI=3.14
 r=float(input("Enter the radius "))
 area=PI*r*r
-print("the erea of a circal is",area)
+print("the area of a circal is",area)
 
 
 
